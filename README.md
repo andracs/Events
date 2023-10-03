@@ -14,6 +14,7 @@ Læs følgende artikler, for at få dybdegående viden om disse koncepter
 - [DOM (MDN Web Docs)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
 **LiveServer**
+
 JavaScript-øvelserne virker bedst, hvis de afvikles på en webserver, så vi tilgår filerne via http:// protokollen frem for file:// protokollen. 
 
 Jeg bruger [LiveServer extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) i Visual Studio Code i demonstrationen.
